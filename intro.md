@@ -1,1 +1,1 @@
-# Este es una clase de introduccion a la programacion en Git con Fernando Aguilar (Profesor de KODIGO)
+# Este es una clase de introduccion a la programacion en Git con Fernando Aguilar (Coach de KODIGO)
