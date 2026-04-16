@@ -1,1 +1,3 @@
 # Este es una clase de introduccion a la programacion en Git con Fernando Aguilar (Coach de KODIGO)
+## Esto es un poco de mi autobiografía
+Soy Roberto García, tengo 40 años, soy Licenciado en Ciencias de la Computación y tengo 10 años de experiencia en el mundo de la tecnología. He trabajado en diferentes empresas en El Salvador y en el extranjero. Actualmente trabajo como Desarrollador de Software en una empresa públicacls de El Salvador. 
