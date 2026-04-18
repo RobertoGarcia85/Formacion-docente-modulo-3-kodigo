@@ -7,3 +7,4 @@ git log --oneline
 git status
 git branch desarrollo Crea nuevas ramas
 git switch desarrollo Cambia de rama
+git checkout master permite actualizar el archivo
