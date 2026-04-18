@@ -9,3 +9,6 @@
 - git switch desarrollo Cambia de rama
 - git checkout master permite actualizar el archivo
 - git merge desarrollo permite actualizar la rama desarrollo con master
+- git remote add origin https://github.com/RobertoGarcia85/Formacion-docente-modulo-3-kodigo.git
+- git branch -M main
+- git push -u origin main
