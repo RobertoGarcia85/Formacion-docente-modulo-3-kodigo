@@ -1,10 +1,11 @@
 # comandos de git en clases
-git init
-git add tech.md
-git commit -m "Tecnologías que se utilizan en el desarrollo de software"
-git log
-git log --oneline
-git status
-git branch desarrollo Crea nuevas ramas
-git switch desarrollo Cambia de rama
-git checkout master permite actualizar el archivo
+- git init
+- git add tech.md
+- git commit -m "Tecnologías que se utilizan en el desarrollo de software"
+- git log
+- git log --oneline
+- git status
+- git branch desarrollo Crea nuevas ramas
+- git switch desarrollo Cambia de rama
+- git checkout master permite actualizar el archivo
+- git merge desarrollo permite actualizar la rama desarrollo con master
