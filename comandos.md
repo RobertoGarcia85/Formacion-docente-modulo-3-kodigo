@@ -1,4 +1,4 @@
-# Tecnologías que se utilizan en el desarrollo de software
+# comandos de git en clases
 git init
 git add tech.md
 git commit -m "Tecnologías que se utilizan en el desarrollo de software"
