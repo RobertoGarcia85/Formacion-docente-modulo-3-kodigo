@@ -5,5 +5,5 @@ git commit -m "Tecnologías que se utilizan en el desarrollo de software"
 git log
 git log --oneline
 git status
-git branch desarrollo
-git switch desarrollo
+git branch desarrollo Crea nuevas ramas
+git switch desarrollo Cambia de rama
