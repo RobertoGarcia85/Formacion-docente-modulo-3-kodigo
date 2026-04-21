@@ -13,3 +13,7 @@
 - git branch -M main
 - git push -u origin main
 - git clone https://github.com/ferjoaguilar/mi-repo-de-la-formacion-docente.git
+- git pull para traer algun archivo de un repositorio
+- git reset --hard id del commit (para borrar los ultimos cambios)
+- git reflog (para ver el historial de cambios)
+- git reset --hard ultimo id del commit (para borrar los ultimos cambios)
